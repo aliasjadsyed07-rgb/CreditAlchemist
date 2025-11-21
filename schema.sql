@@ -1,4 +1,4 @@
--- Create tables for Credit Alchemist application
+-- Create tables for Credit Alchemist application - Ali
 
 -- Debts table
 CREATE TABLE IF NOT EXISTS debts (
